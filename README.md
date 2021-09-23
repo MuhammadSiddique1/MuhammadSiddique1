@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadSiddique
-- 👀 I’m interested in Data Science, Analytics, Software Development.
+- 👀 I’m interested in Data Science, Analytics, Software and android Development.
 - 🌱 I’m currently developing projects with SQL, Python, Tableau, Java,  
-- 💞️ I’m looking to collaborate on analytics projects
+- 💞️ I’m looking to collaborate on analytics projects and software development projects.
 - 📫 How to reach me: muhammad1.siddique@ryerson.ca
 
 <!---
